@@ -1,1 +1,3 @@
 Learning commands on Git terminal, how to do a fork, clone and pushing a repository
+
+Learning about Tracked files on git
