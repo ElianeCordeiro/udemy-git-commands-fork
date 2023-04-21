@@ -1,6 +1,7 @@
 # humanstxt.org/
 trying to understand rebasing
-# The humans responsible & technology colophon
+# The humans responsible &technology colophon
+making more changes
 
 # TEAM
 
